@@ -1,6 +1,6 @@
 
 
-<h1>Função PHP | Atulizar dia, mes e ano </h1>
+<h1>Função PHP | Retorna dia, mes e ano atual </h1>
 
 
 <p align="center">
@@ -34,7 +34,7 @@ Para isso foi utilizado as funções time
 
 **PHP** 
 
-**<a href="https://paiza.io/en/languages/online-php-editor">EDITOR PHP ON LINE </a>**
+**<a href="https://paiza.io/en/languages/online-php-editor">Editor PHP on line </a>**
 
 ## Para contribuir 🤔
 
