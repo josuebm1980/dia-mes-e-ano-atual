@@ -24,7 +24,7 @@ aperfeiçoar minhas habilidade em PHP.
 
 ## Sobre :memo:
 
-Para isso foi utilizado as funções time
+Para isso foi utilizado as funções time() e getdate() do PHP. A função time retorna o tempo corrente em números de segundos desde primeiro de janeiro de 1970 (padrão UNIX), e a função getdate transforma esse tempo em um array com dia, o mês, o ano e outras informações sobre a data atual.
 
 ## Demonstração :computer:
 
@@ -32,7 +32,7 @@ Para isso foi utilizado as funções time
 
 ## Tecnologias :rocket:
 
-**PHP** 
+**PHP**
 
 **<a href="https://paiza.io/en/languages/online-php-editor">Editor PHP on line </a>**
 
