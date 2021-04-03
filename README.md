@@ -28,23 +28,13 @@ Para isso foi utilizado as funções time
 
 ## Demonstração :computer:
 
- :computer: <a href="#"> Demo </a>
+ :computer: <a href="https://paiza.io/projects/kk94WSss6yEOBicKgraZ2g"> Demo </a>
 
 ## Tecnologias :rocket:
 
-**HTML5** 
+**PHP** 
 
-**CSS3**
-- Normalise, Reset e Grid
-- Responsividade
-
-**JavaScript**
-- Jquery
-- Animate
-- Modernizir
-
-**Formulário com PHPMailer**
-
+**<a href="https://paiza.io/en/languages/online-php-editor">EDITOR PHP ON LINE </a>**
 
 ## Para contribuir 🤔
 
